@@ -12,8 +12,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,7 +21,6 @@
 <br/>
 
 # 📚 Stacks
-<br/>
 <br/>
 
 ### 🔭 Now I use ...
@@ -40,6 +37,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 ### 🌱 I will learn ...
 <br/>
@@ -50,6 +48,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 
+<br/>
 <br/>
 <br/>
 <br/>
